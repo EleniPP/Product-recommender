@@ -18,3 +18,9 @@ This is a simple Java console application that allows users to add products, lis
 
 ## Project Structure
 
+- **Main.java** — Handles user input and application menu loop  
+- **Product.java** — Represents a product model  
+- **ProductRecommender.java** — Contains recommendation logic and similarity functions
+
+
+
